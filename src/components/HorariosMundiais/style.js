@@ -16,6 +16,7 @@ export const Container = styled.div `
 
 export const Content = styled.div `
     display: flex;
+    justify-content: center;
 
     h2 {
         text-align: left;
@@ -28,6 +29,6 @@ export const Content = styled.div `
         width: 42px;
         margin-left: auto;
         margin-top: 13px;
-        margin-right: 25px;
+        margin-right: 55px;
     }
 `

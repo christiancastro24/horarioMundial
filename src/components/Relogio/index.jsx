@@ -68,9 +68,7 @@ export const Relogio = ({ theme }) => {
             <DataAtual>
             <h1>{hora}</h1>
             <Cidade>
-                <span>{dataCity},</span>
-                <span>{diasDaSemana[dataAtual.getDay()]} {diaAtual} de {meses[dataAtual.getMonth()]} de {getYear},</span>  
-                <span>{temperatura}</span>
+                <span>{diasDaSemana[dataAtual.getDay()]} {diaAtual} de {meses[dataAtual.getMonth()]} de {getYear}</span>  
             </Cidade>
             </DataAtual>
             <br />

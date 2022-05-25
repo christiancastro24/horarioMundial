@@ -41,7 +41,7 @@ export const HorariosMundialBudapest = ({ theme }) => {
             <h2>Budapeste</h2>
             <img src={hungria} alt="Hungria" />
             </Content>
-            <hr style={{borderTop: "2px solid #555", width: "284px"}}/>
+            <hr style={{borderTop: "2px solid #555", width: "254px"}}/>
             <h1>{horarioBudapeste}</h1>
         </Container>
         </>
@@ -76,7 +76,7 @@ export const HorariosMundialAmsterdam = ({ theme }) => {
             <h2>Amsterdam</h2>
             <img src={paisesBaixos} alt="Holanda" />
             </Content>
-            <hr style={{borderTop: "2px solid #555", width: "284px"}}/>
+            <hr style={{borderTop: "2px solid #555", width: "254px"}}/>
             <h1>{horarioAmsterdam}</h1>
         </Container>
         </>
@@ -111,7 +111,7 @@ export const HorariosMundialKiev = ({ theme }) => {
             <h2>Kiev</h2>
             <img src={ucrania} alt="Kiev" />
             </Content>
-            <hr style={{borderTop: "2px solid #555", width: "284px"}}/>
+            <hr style={{borderTop: "2px solid #555", width: "254px"}}/>
             <h1>{horarioKiev}</h1>
         </Container>
         </>
@@ -146,7 +146,7 @@ export const HorariosMundialLisbon = ({ theme }) => {
             <h2>Lisboa</h2>
             <img src={portugal} alt="Lisbon" />
             </Content>
-            <hr style={{borderTop: "2px solid #555", width: "284px"}}/>
+            <hr style={{borderTop: "2px solid #555", width: "254px"}}/>
             <h1>{horarioLisbon}</h1>
         </Container>
         </>
@@ -180,7 +180,7 @@ export const HorariosMundialJohannesburg = ({ theme }) => {
             <h2>Johannesburg</h2>
             <img src={africa} alt="Johannesburg" />
             </Content>
-            <hr style={{borderTop: "2px solid #555", width: "284px"}}/>
+            <hr style={{borderTop: "2px solid #555", width: "254px"}}/>
             <h1>{horarioJohannesburg}</h1>
         </Container>
         </>
@@ -214,7 +214,7 @@ export const HorariosMundialNewYork = ({ theme }) => {
             <h2>NewYork</h2>
             <img src={estadosUnidos} alt="NewYork" />
             </Content>
-            <hr style={{borderTop: "2px solid #555", width: "284px"}}/>
+            <hr style={{borderTop: "2px solid #555", width: "254px"}}/>
             <h1>{horarioNewYork}</h1>
         </Container>
         </>
@@ -249,7 +249,7 @@ export const HorariosMundialPanama = ({ theme }) => {
             <h2>Panama</h2>
             <img src={panama} alt="Panama" />
             </Content>
-            <hr style={{borderTop: "2px solid #555", width: "284px"}}/>
+            <hr style={{borderTop: "2px solid #555", width: "254px"}}/>
             <h1>{horarioPanama}</h1>
         </Container>
         </>
